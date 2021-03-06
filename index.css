@@ -1,5 +1,11 @@
 #first {
-    background-image: url='images/landing.jpg';
+    display:block;
     text-align: center;
-    
+    background-image: url("images/landing.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+ #first > p {
+   position:relative;
+   bottom:25px;
 }
