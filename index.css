@@ -186,4 +186,14 @@ body {
        height:500px;
        border:10px white;
     }
+
+    .customermenu {
+        box-shadow: 2px 2px 10px rgb(238, 231, 231);
+        margin:60%;
+        width:50%;
+        height:80%;
+        padding-right:50px;
+        overflow: auto;
+        
+    }
     
