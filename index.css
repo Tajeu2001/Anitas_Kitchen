@@ -173,3 +173,17 @@ body {
        margin-left: 400px ;
        text-align:right;
    }
+    .burgers{
+       background-image: url("images/foodsBg.jpg");
+       background-size: auto;
+       background-repeat: no-repeat;
+       background-position: center;
+       display:flex;
+       width:75%;
+       margin:150px;
+       padding-left:200px;
+       padding-top:125px;
+       height:500px;
+       border:10px white;
+    }
+    
