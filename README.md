@@ -14,7 +14,7 @@ This program is all about recreating a menu page for the quality restaurant call
  $git clone https://github.com/Tajeu2001/Anitas_Kitchen.git
 
 
-# Link to the site on Github pages
+**Link to the site on Github pages**
 https://github.com/Tajeu2001/Anitas_Kitchen.git
 
 ### Licence
