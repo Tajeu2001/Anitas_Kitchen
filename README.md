@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> c9d1483243e326bfca68035c67f9377339ae9c35
 ## Author name
 Rosemary Siantayo Tajeu
 
@@ -15,7 +18,11 @@ This program is all about recreating a menu page for the quality restaurant call
  $git clone https://github.com/Tajeu2001/Anitas_Kitchen.git
 
 
+<<<<<<< HEAD
 ** Link to the site on Github pages**
+=======
+**Link to the site on Github pages**
+>>>>>>> c9d1483243e326bfca68035c67f9377339ae9c35
 https://github.com/Tajeu2001/Anitas_Kitchen.git
 
 ### Licence
