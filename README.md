@@ -1,22 +1,21 @@
-#Anitas Kitchen#
 
-##Author name##
+## Author name
 Rosemary Siantayo Tajeu
 
-##Project name##
+## Project name
 Anitas Kitchen
 
-##Project Description##
+## Project Description
 This program is all about recreating a menu page for the quality restaurant called Anitas kitchen.Using CSS and HTML.
 
-##Program Setup instruction##
+## Program Setup instruction
 *you need to have a computer.
 *install git
 *Use your terminal to clone the repository to your folder,using this command
  $git clone https://github.com/Tajeu2001/Anitas_Kitchen.git
 
 
-##Link to the site on Github pages##
+**Link to the site on Github pages**
 https://github.com/Tajeu2001/Anitas_Kitchen.git
 
 ###Licence### 
